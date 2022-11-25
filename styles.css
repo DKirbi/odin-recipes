@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+
+body {
+    background-color: rgb(233, 215, 171);
+    font-family: 'Lato', sans-serif;
+}
+
+
+h1 {
+    font-size: 33px;
+    font-weight: 700;
+
+}
+
+.intro-text {
+    padding: 20px;
+    background-color: rgb(207, 178, 104);
+    color: rgb(36, 59, 109);
+    font-weight: 700;
+    font-size: 22px;
+}
